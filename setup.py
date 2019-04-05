@@ -19,7 +19,7 @@ setuptools.setup(
     install_requires=requirements,
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved ::MIT License",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     scripts=['PWE_CLI/PWE_CLI_Scripts/pwe_run_clingo', 'PWE_CLI/PWE_CLI_Scripts/pwe_load_worlds',
